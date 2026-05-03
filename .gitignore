@@ -1,0 +1,19 @@
+# Sensitive files
+config.py
+*.log
+*.pid
+*.secret
+
+# Python
+__pycache__/
+*.pyc
+venv/
+dashboard-venv/
+
+# Local configs
+last_ip.txt
+duckdns_updater.log
+
+# System files
+.DS_Store
+*.swp
