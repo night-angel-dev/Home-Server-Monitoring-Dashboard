@@ -20,7 +20,7 @@ A real-time monitoring dashboard for a headless Ubuntu home server running a Min
 ## Hardware
 - 2015 Dell Laptop
 - 8GB RAM
-- 256 HDD
+- 256GB HDD
 - Intel i5-500U
 
 
