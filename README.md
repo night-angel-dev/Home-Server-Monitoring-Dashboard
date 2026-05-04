@@ -61,3 +61,6 @@ screen -r dashboard
 
 *Players Onlines:*
 ![Players online](images/dashboard-player.png)
+
+*Server Running in SSH Terminal*
+![Server Running](images/server-running.png)
