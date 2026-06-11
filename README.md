@@ -26,7 +26,7 @@ A real-time monitoring dashboard for a headless Ubuntu home server running a Min
 
 ## Setup Overview
 1. Install Ubuntu Server
-2. Configure statis IP via Netplan
+2. Configure static IP via Netplan
 3. Install Java and Minecraft server
 4. Enable RCON in server.properties
 5. Deploy Flash dashboard with virtual environment
